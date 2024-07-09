@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(a), ArrayType([2], BoolType), None, ArrayLit(BooleanLit(True), BooleanLit(False))), AssignStmt(ArrayCell(Id(a), [NumLit(1.0)]), BooleanLit(True)), CallStmt(Id(writeBool), [ArrayCell(Id(a), [NumLit(1.0)])])]))])

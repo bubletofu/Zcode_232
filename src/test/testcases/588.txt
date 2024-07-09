@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), StringType, None, StringLit(World)), FuncDecl(Id(foo), [], Block([AssignStmt(Id(a), StringLit(Hi)), CallStmt(Id(writeString), [Id(a)])])), FuncDecl(Id(main), [], Block([CallStmt(Id(foo), []), CallStmt(Id(writeString), [StringLit(World)])]))])

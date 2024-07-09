@@ -1,0 +1,7 @@
+ 
+            var VoTien <- true and "true" or 1 
+            var VoTien <- 1 and 2 and 3 or 4 or 4
+            var VoTien <- 1 + 2 - 2 + 3 and 3
+            var VoTien <- 1 / 2 * 3 % 4
+            var VoTien <- 1 / 2 / 2 * 3 % 4
+        

@@ -1,0 +1,2 @@
+Program([FuncDecl(Id(main), [], CallStmt(Id(writeString), [StringLit(Hello 
+ World!)]))])

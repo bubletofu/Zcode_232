@@ -1,0 +1,9 @@
+ 
+            var VoTien <- true > "true" 
+            var VoTien <- true >= "true"
+            var VoTien <- true = "true"
+            var VoTien <- true == "true"
+            var VoTien <- true < "true"
+            var VoTien <- true <= "true"
+            var VoTien <- true >= "true" ... 1 > 2
+        

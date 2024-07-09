@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), None, dynamic, None), VarDecl(Id(b), None, dynamic, None), FuncDecl(Id(main), [], Block([AssignStmt(Id(a), BooleanLit(True)), AssignStmt(Id(b), BooleanLit(False)), CallStmt(Id(writeBool), [BinaryOp(or, Id(a), Id(b))])]))])

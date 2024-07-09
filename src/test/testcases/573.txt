@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(a), None, dynamic, None), AssignStmt(Id(a), StringLit(Hello)), CallStmt(Id(writeString), [Id(a)])]))])

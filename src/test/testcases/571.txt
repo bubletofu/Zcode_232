@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), ArrayType([2, 2], StringType), None, ArrayLit(ArrayLit(StringLit(Hello), StringLit(World)), ArrayLit(StringLit(Hi), StringLit(!)))), FuncDecl(Id(main), [], Block([CallStmt(Id(writeString), [ArrayCell(Id(a), [NumLit(0.0), NumLit(1.0)])])]))])

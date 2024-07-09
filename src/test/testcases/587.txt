@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo), [], Block([CallStmt(Id(writeBool), [BooleanLit(True)])])), FuncDecl(Id(main), [], Block([CallStmt(Id(foo), [])]))])

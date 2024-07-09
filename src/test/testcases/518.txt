@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), None, var, BooleanLit(True)), FuncDecl(Id(main), [], Block([CallStmt(Id(writeBool), [Id(a)])]))])
