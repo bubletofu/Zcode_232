@@ -1,4 +1,4 @@
-[CO3005]Principals of Programming Language
+[CO3005]Principals of Programming Language - HCMUT - 232
 
 Set environment variable ANTLR_JAR to the file antlr-4.9.2-complete.jar in your computer
 Change current directory to initial/src where there is file run.py
