@@ -289,9 +289,7 @@ class ASTGeneration(ZCodeVisitor):
         op = ctx.getChild(0).getText()
         operand = self.visit(ctx.expression7())
         return UnaryOp(op, operand)
-    # expression8: expression8 index_operators_expr | expression9;
-    #   index_operators_expr: (IDENTIFIER | function_call_expr) OPEN_SQUARE_BRACKET index_operators CLOSE_SQUARE_BRACKET;
-    #       index_operators: expression COMMA index_operators | expression;
+
     def visitExpression8(self, ctx: ZCodeParser.Expression8Context):
         if ctx.expression9():
             return self.visit(ctx.expression9())
